@@ -1,7 +1,7 @@
 # pfa-1
 gestion d'une auto école
 
-l'application est destinée aux bureaux d'auto-école. Elle permet :
+l'application est destinée aux bureaux d'auto-école. Elle permet:
 - le suivi des candidats (inscription ....)
 - la gestion des séances de code, de conduite et d'examen
 - la planification des séances de code et de conduite
